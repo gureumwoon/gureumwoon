@@ -1,9 +1,9 @@
-###<div align="center"> welcome 👋</div>  
+## <div align="center">welcome 👋</div>  
 </br>
-
+---
 
 ### <div align="center">안녕하세요 FE 개발자 김채운 입니다. </div>  
-
+</br>
 
 - 🔭 멋쟁이 사자처럼 frontendschool 1기를 수료하였습니다!
 - 🌱 현재 프론트엔드에 필요한 전반적인 언어를 모두 공부중에 있고, 특히 JS와 REACT를 집중적으로 공부하고 있습니다!
