@@ -1,7 +1,7 @@
 ## <div align="center">welcome 👋</div>  
 </br>
 
-### <div align="center">:sunny: 안녕하세요 FE 개발자 김채운 입니다. </div>  
+### <div align="center">:baby_chick: 안녕하세요 FE 개발자 김채운 입니다. </div>  
 </br>
 
 - 🔭 멋쟁이 사자처럼 frontendschool 1기를 수료하였습니다!
