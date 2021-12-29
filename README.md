@@ -1,5 +1,4 @@
 ## <div align="center">welcome 👋</div>  
-</br>
 
 ### <div align="center">:baby_chick: 안녕하세요 FE 개발자 김채운 입니다. </div>  
 </br>
@@ -37,7 +36,7 @@
 
 <div align=center>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgureumwoon&count_bg=%23579DB8&title_bg=%23555555&icon=&icon_color=%236234AE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgureumwoon&count_bg=%2382C49A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 
