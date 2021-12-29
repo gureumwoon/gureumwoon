@@ -1,6 +1,5 @@
 ## <div align="center">welcome 👋</div>  
 </br>
----
 
 ### <div align="center">안녕하세요 FE 개발자 김채운 입니다. </div>  
 </br>
