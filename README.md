@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   
 </div>
+</br>
 
 ## Github Stats    
 <div align=center>
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gureumwoon&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>  
+</br>
 
 <div align=center>
   
