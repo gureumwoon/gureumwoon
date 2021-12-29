@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 <div align=center>
   
